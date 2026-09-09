@@ -129,7 +129,7 @@ This loop is how a rough idea becomes a **5–10 minute prototype** and, from th
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chavansrikar&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavansrikar&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=chavansrikar&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
