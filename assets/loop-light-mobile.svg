@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100" role="img" aria-label="Engineering loop: frame, decompose, build, validate, ship">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6D5EF5"/><stop offset="50%" stop-color="#0E9AA7"/><stop offset="100%" stop-color="#6D5EF5"/>
+    </linearGradient>
+  </defs>
+  <line x1="25" y1="38" x2="335" y2="38" stroke="#D8DCE8" stroke-width="3"/>
+  <line x1="25" y1="38" x2="335" y2="38" stroke="url(#line)" stroke-width="3" stroke-dasharray="6 12" opacity="0.65"/>
+  <g font-family="DejaVu Sans, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g fill="#5B4FE0" stroke="#5B4FE0"><circle cx="25" cy="38" r="5"/><circle cx="100" cy="38" r="5"/><circle cx="180" cy="38" r="5"/><circle cx="260" cy="38" r="5"/><circle cx="335" cy="38" r="5"/></g>
+    <g fill="#1F2937" font-size="9" font-weight="600" letter-spacing="1"><text x="25" y="66">FRAME</text><text x="100" y="66">DECOMPOSE</text><text x="180" y="66">BUILD</text><text x="260" y="66">VALIDATE</text><text x="335" y="66">SHIP</text></g>
+    <text x="180" y="89" font-size="9" fill="#5B4FE0">An unfamiliar problem is just a system waiting to be understood.</text>
+  </g>
+  <g transform="translate(25,38)">
+    <circle r="5" fill="#0E9AA7">
+      <animateMotion path="M 0 0 L 310 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

@@ -1,68 +1,64 @@
 <div align="center">
 
-# Chavan Srikar 👋
+# Chavan Srikar
 
-<!-- Hero animation: one purposeful motion element near the top (animated SVG, no JS) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=8B93FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=AI+Generalist+%26+Full-Stack+Builder;Computer+Vision+%7C+Deep+Learning+%7C+LLM+Tooling;NASA+Space+Apps+2026+%F0%9F%8F%86+1st+Place+%28Warangal%29;Turning+ideas+into+working+prototypes+in+5%E2%80%9310+minutes" alt="Typing headline: AI generalist and full-stack builder, computer vision, deep learning and LLM tooling, NASA Space Apps 2026 first place, rapid prototyper" />
+<p align="center">
+<picture>
+  <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="assets/hero-light-desktop.svg" />
+  <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="assets/hero-light-mobile.svg" />
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/hero-dark-mobile.svg" />
+  <img src="assets/hero-dark-desktop.svg" alt="Professional software engineer and AI systems builder solving complex, interconnected real-world problems" width="100%" />
+</picture>
+</p>
 
 <p>
-  <a href="https://github.com/chavansrikar"><img src="https://img.shields.io/badge/GitHub-chavansrikar-181717?style=for-the-badge&amp;logo=github" alt="GitHub: chavansrikar" /></a>
-  <a href="https://www.linkedin.com/in/chavansrikar/"><img src="https://img.shields.io/badge/LinkedIn-chavansrikar-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn: chavansrikar" /></a>
-  <a href="https://chavansrikar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&amp;logo=vercel" alt="Live animated portfolio" /></a>
+  <a href="https://github.com/chavansrikar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-chavansrikar-181717?style=for-the-badge&amp;logo=github" alt="GitHub: chavansrikar" /></a>
+  <a href="https://www.linkedin.com/in/chavansrikar/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-chavansrikar-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn: chavansrikar" /></a>
+  <a href="https://chavansrikar.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&amp;logo=vercel" alt="Live portfolio" /></a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Bhongir%2C%20Telangana%2C%20India-orange?style=flat-square" alt="Location: Bhongir, Telangana, India" />
-  <img src="https://img.shields.io/badge/Prototype%20speed-5--10%20min-brightgreen?style=flat-square" alt="Prototype speed: 5 to 10 minutes" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-blue?style=flat-square" alt="Open to internships and collaborations" />
+  <img src="https://img.shields.io/badge/Focus-End--to--end%20Systems-blueviolet?style=flat-square" alt="Focus: end-to-end systems" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-brightgreen?style=flat-square" alt="Open to internships and collaborations" />
 </p>
 
 </div>
 
 ---
 
-## 🧠 About me
+## 🧠 Professional summary
 
-I'm an **AI-first engineer and generalist builder** — part full-stack developer, part computer-vision engineer, part AI orchestrator. My core skill is **"vibe coding"**: taking a rough idea and turning it into a **working, demo-ready prototype in 5–10 minutes** (for well-scoped problems where the models, data, or APIs already exist), then doing the real work of making it accurate and robust.
+I'm a **software engineer and AI systems builder** who takes ambiguous, real-world problems all the way to working software. I start by understanding the domain and the people affected, break the challenge into tractable parts, choose the right tools for each part, and then ship something that holds up against real data and real users.
 
-I don't just write code — I **orchestrate AI tools, models and frameworks** into end-to-end solutions: raw video or data → model inference → an interface someone else can actually click around in. Lately I've been building with modern web stacks too — **React 19, Next.js 15, TypeScript, Tailwind CSS v4, Framer Motion, anime.js v4 and Lenis** — because a good model deserves a good product around it.
+The thread running through every project below is the same: **find the actual bottleneck, design the system around it, and validate the outcome against the problem — not against a demo.** I care about the unglamorous parts that make software dependable: data quality, preprocessing, service boundaries, state machines, failure modes, testing and deployment.
 
-- 🔭 **Build across:** computer vision (pose estimation, detection, video analysis), deep learning (LSTMs, time-series, anomaly detection), LLM tool orchestration and full-stack web apps.
-- ⚡ **Workflow built for speed:** minimal Gradio/Streamlit inference demo first, then harden into a real product.
-- 🏆 **Hackathon-shaped:** active in the hackathon circuit; 1st place at NASA Space Apps 2026 (Warangal) and maintainer of a 35+ tool rapid-build kit.
-- 🌱 **Always learning:** AI & ML diploma → lateral-entry B.Tech CSE, because I want to understand the infrastructure underneath the model layer.
-- 🇮🇳 **Mission:** build things that hold up, and put them to work for Bharat and Viksit Bharat 2047.
+My work spans clinical-adjacent gait analysis for prosthetic users, district-level healthcare operations, satellite climate-trend detection for NASA, privacy-first DeFi risk analysis, developer tooling, and production websites for real clients. I move comfortably between **Python / AI-ML** and **TypeScript / modern web**, which lets me own a problem from the model layer to the interface a person actually touches.
 
-> **My honest claim:** for a well-scoped problem where the models, APIs and data are already available, I can go from concept to a clickable prototype in **5–10 minutes** — then iterate toward accuracy, robustness and production quality.
+> 🛰️ **Recent recognition:** 1st place at the **NASA Space Apps Challenge 2026**, Warangal local event, for **ATLAS Earth** — a full-stack trend-detective built on 30 years of NASA data.
+>
+> 🎓 **Foundation:** AI & ML diploma → lateral-entry B.Tech CSE at ACE Engineering College (TG ECET rank 1965), deliberately adding hardware, architecture and systems depth on top of the model layer.
 
 ---
 
-## 📌 Currently
-
-> 🛰️ **Won 1st place** at the **NASA Space Apps Challenge 2026**, Warangal local event, with **ATLAS Earth** (Team Ace Azael) — 30 years of NASA climate data turned into plain-language trend answers.
->
-> 🎓 **B.Tech CSE (lateral entry)** at ACE Engineering College (TG ECET rank **1965**), after an AI & ML diploma at Samskruti College (8.21 CGPA).
->
-> 🤝 **Open to** remote internships, AI/CV collaborations and fast-turnaround prototypes.
-
----
-
-## 📊 GitHub at a glance
-
-<!-- Animated stats card: the second (and last) motion element on the page -->
-<p align="center">
-  <img src="https://www.gitskins.com/api/card-animated?username=chavansrikar&amp;theme=neon" alt="Animated GitHub stats card for chavansrikar" width="460" />
-</p>
+## 🔧 How I approach an unfamiliar problem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chavansrikar&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true" alt="GitHub statistics for chavansrikar" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=chavansrikar&amp;theme=tokyonight" alt="GitHub contribution streak for chavansrikar" height="170" />
+<picture>
+  <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="assets/loop-light-desktop.svg" />
+  <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="assets/loop-light-mobile.svg" />
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/loop-dark-mobile.svg" />
+  <img src="assets/loop-dark-desktop.svg" alt="Engineering loop: frame, decompose, build, validate, ship" width="100%" />
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavansrikar&amp;layout=compact&amp;theme=tokyonight" alt="Most used languages on GitHub" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavansrikar&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution activity graph" height="170" />
-</p>
+1. **Frame it** — understand the real stakeholder, constraints, edge cases and what "done" actually means.
+2. **Decompose it** — split the messy challenge into independent, testable pieces with clear interfaces.
+3. **Build it** — implement the smallest complete version, then strengthen data handling, model quality and UX.
+4. **Validate it** — check results against real data, statistical tests and failure scenarios — not just the happy path.
+5. **Ship it** — deploy it where someone else can use it, then iterate from their feedback.
+
+This is how a hard, interconnected problem becomes a system someone can rely on.
 
 ---
 
@@ -134,84 +130,125 @@ I don't just write code — I **orchestrate AI tools, models and frameworks** in
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Selected work
 
-### 🛰️ [ATLAS Earth — Be An Earth System Trend Detective](https://github.com/chavansrikar/Be-An-Earth-System-Trend-Detective-Team-Ace-Azael) 🏆 1st place
+Every project here started as a real problem with constraints — not a tutorial.
 
-**NASA Space Apps Challenge 2026 · Warangal local event · Team Ace Azael** · [Live demo](https://atlas-ace-azael.vercel.app/)
+### 🛰️ ATLAS Earth — Be An Earth System Trend Detective 🏆
 
-Pick a NASA Earth variable and a place — ATLAS draws the 30-year record, measures the trend, tests whether it is statistically significant and shows the same planet in NASA imagery. **25 NASA POWER variables**, Sen's slope, Mann–Kendall and Pettitt tests, Benjamini–Hochberg correction, a grid-cell trend map, 2–6 place comparison, and a NASA Blue Marble / photoreal 3D globe with monthly GIBS overlays. Keyless by default; USGS/ECCC streamflow is clearly labelled as supplementary. Default finding: Amazon Basin air temperature **+0.32 °C/decade, p ≈ 0.007**.
+**NASA Space Apps Challenge 2026 · 1st place, Warangal local event · Team Ace Azael**
+<a href="https://github.com/chavansrikar/Be-An-Earth-System-Trend-Detective-Team-Ace-Azael" target="_blank" rel="noopener noreferrer">Source</a> · <a href="https://atlas-ace-azael.vercel.app/" target="_blank" rel="noopener noreferrer">Live demo</a>
+
+NASA climate data is open but hard to read. ATLAS turns 30 years of it into an answer a person can act on: pick a variable and a place, then get the trend, a significance test, a NASA imagery view and a plain-language explanation. It tests **25 NASA POWER variables** at once with Benjamini–Hochberg correction, maps trends grid cell by cell, compares up to six places, and renders a NASA Blue Marble / photoreal 3D globe with monthly GIBS overlays. Streamflow from USGS/ECCC gauges is clearly labelled as supplementary, and nothing is fabricated when data is missing. Default finding: Amazon Basin air temperature **+0.32 °C/decade, p ≈ 0.007**.
 
 `TypeScript` · `React` · `Three.js` · `NASA POWER / GIBS / EONET` · `Vercel`
 
-### 🦿 [NGPME — Next-Gen Prosthetic Mobility Enhancer](https://github.com/chavansrikar/NGPME_major_project) · [Live demo](https://huggingface.co/spaces/srikarrr/NGPME_major_project)
+### 🦿 NGPME — Next-Gen Prosthetic Mobility Enhancer
 
-Turns a plain smartphone walking video into a clinical-adjacent gait report: MediaPipe pulls 33 pose landmarks, 18+ biomechanical metrics are derived, then an **LSTM classifier** and an **Isolation Forest** anomaly detector flag irregular movement and produce a single fall-risk score — plus an annotated HUD video and charts. Built for prosthetic users who'd otherwise need a motion-capture lab.
+<a href="https://github.com/chavansrikar/NGPME_major_project" target="_blank" rel="noopener noreferrer">Source</a> · <a href="https://huggingface.co/spaces/srikarrr/NGPME_major_project" target="_blank" rel="noopener noreferrer">Live demo</a>
+
+Prosthetic users and clinicians normally need an expensive motion-capture lab to assess gait and fall risk. This system extracts 33 pose landmarks from an ordinary smartphone video with MediaPipe, derives 18+ biomechanical metrics, then combines an **LSTM classifier** and an **Isolation Forest** anomaly detector into a single fall-risk score — with an annotated video and charts as output. Built during a six-month industrial training programme, inspired by my father's need for something genuinely useful.
 
 `Python` · `Gradio` · `MediaPipe` · `OpenCV` · `TensorFlow/Keras` · `scikit-learn` · `SQLite` · `ffmpeg`
 
-### 🏥 [Bharat Health Detective Care](https://github.com/chavansrikar/Bharat-Health-Detective-Care)
+### 🏥 Bharat Health Detective Care
 
-A district-level health operations operating picture: **17 screens** covering infrastructure, workforce, screening, diagnostics, referrals, campaigns, analytics and a consent-led citizen portal — computed live from SQLite. Gradio 5 UI over a strict service layer and SQLAlchemy 2 ORM (no SQL in UI callbacks), 8 role-based workspaces, a referral state machine with urgency safety rules and 12 CSV exports.
+<a href="https://github.com/chavansrikar/Bharat-Health-Detective-Care" target="_blank" rel="noopener noreferrer">Source</a>
+
+Public-health capacity is usually invisible — facilities, workforce, screening and referrals sit in silos. This is an integrated operations picture with **17 screens** across those domains, a consent-led citizen portal and 8 role-based workspaces. It's engineered properly: Gradio 5 over a strict service layer and SQLAlchemy 2 ORM (no SQL in UI callbacks), a referral state machine with urgency safety rules, 12 CSV exports and a deterministic demo reset.
 
 `Python` · `Gradio 5` · `SQLAlchemy` · `SQLite` · `Pydantic` · `Plotly`
 
-### 🌿 [Dr. Shalini's Homoeopathy](https://github.com/chavansrikar/Dr_shalini) · [Live site](https://www.drshalinis.com)
+### 🌿 Dr. Shalini's Homoeopathy
 
-Production rebuild of a live clinic website on **Next.js 15** with an embedded **Sanity Studio**, so the practice owner publishes articles and edits copy without touching code. Framer Motion transitions, react-hook-form + Zod validation, Tailwind CSS 4 and Vercel deployment.
+<a href="https://github.com/chavansrikar/Dr_shalini" target="_blank" rel="noopener noreferrer">Source</a> · <a href="https://www.drshalinis.com" target="_blank" rel="noopener noreferrer">Live site</a>
 
-`Next.js 15` · `TypeScript` · `Tailwind v4` · `Sanity CMS` · `Framer Motion` · `Vercel`
+A production rebuild of a real clinic's website, not a demo. The practice owner needed a fast modern site and a way to publish articles without calling a developer — so it ships with an embedded Sanity Studio at `/admin`. Next.js 15 App Router, strict TypeScript, Tailwind CSS 4, Framer Motion, react-hook-form + Zod and Vercel deployment.
 
-### ✨ [Chavan Srikar — Animated Portfolio](https://github.com/chavansrikar/portfolio) · [Live site](https://chavansrikar.github.io/portfolio/)
+`Next.js 15` · `TypeScript` · `Tailwind v4` · `Sanity CMS` · `Framer Motion`
 
-The site that inspired this README's motion: a black-and-purple ASCII-motion portfolio built from my public GitHub + LinkedIn data. Custom 5×6 block-font art, glyph-scrambling skill tiles and an ASCII photo portrait — animated with **anime.js v4** and **Framer Motion**, smooth-scrolled with **Lenis**, styled with **Tailwind v4**, and deployed through GitHub Actions.
+### ✨ Animated Developer Portfolio
 
-`React 19` · `TypeScript (strict)` · `Vite 8` · `Tailwind v4` · `anime.js v4` · `Framer Motion` · `Lenis`
+<a href="https://github.com/chavansrikar/portfolio" target="_blank" rel="noopener noreferrer">Source</a> · <a href="https://chavansrikar.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Live site</a>
 
-### 🛡️ [Nostromo Guard](https://github.com/chavansrikar/Nostromo-Guard-AI-Powered-DeFi-Risk-Optimizer)
+A React 19 + TypeScript portfolio built from public GitHub and LinkedIn data, with a custom 5×6 block-font ASCII engine, glyph-scrambling skill tiles and an ASCII photo portrait — animated with anime.js v4 and Framer Motion, smooth-scrolled with Lenis, styled with Tailwind v4 and deployed through GitHub Actions. Mobile-first, accessible, and the design reference for this profile README.
 
-Privacy-first, fully local pre-flight audit for DeFi smart contracts: heuristic static analysis (reentrancy, `tx.origin`, unchecked calls) produces a 0–100 risk score, and a Monte-Carlo random walk simulates 30-day TVL with liquidity-crunch detection. Nothing leaves your machine.
+`React 19` · `TypeScript` · `Vite 8` · `Tailwind v4` · `anime.js v4` · `Framer Motion` · `Lenis`
 
-`Python` · `Gradio` · `Regex heuristics` · `Monte Carlo` · `Matplotlib`
+### 🛡️ Nostromo Guard — AI-Powered DeFi Risk Optimizer
 
-### More featured builds
+<a href="https://github.com/chavansrikar/Nostromo-Guard-AI-Powered-DeFi-Risk-Optimizer" target="_blank" rel="noopener noreferrer">Source</a>
 
-| Project | What it does | Stack |
+A privacy-first, fully local pre-flight audit for DeFi smart contracts. A custom heuristic engine scans for reentrancy, `tx.origin` phishing and unchecked external calls to produce a 0–100 risk score, while a Monte-Carlo random walk simulates 30-day TVL and flags liquidity crunches. No contract code ever leaves the machine.
+
+`Python` · `Gradio` · `Heuristics` · `Monte Carlo` · `Matplotlib`
+
+---
+
+## 📦 More applied work
+
+| Project | The problem it tackles | Stack |
 |---|---|---|
-| [Crowd Density & Stampede Prevention](https://github.com/chavansrikar/crowd-density-prevention) | YOLOv8 + OpenCV detects people in a video feed, estimates density and raises pre-threshold alerts | Python · Streamlit · YOLOv8 · OpenCV |
-| [Omnix Voice Assistant](https://github.com/chavansrikar/project-on-voice-assistant) ([demo](https://project-on-voice-assistant-060.onrender.com/)) | Browser voice assistant with Web Speech API recognition + synthesis; team lead of 6 | JavaScript · Node.js · Express |
-| [Automated Wheat Disease Detection](https://github.com/chavansrikar/Automated-Wheat-Disease-Detection) | Upload a wheat-leaf photo, get a disease classification through Gradio | Python · Deep Learning · Gradio |
-| [Universal Error Explainer](https://github.com/chavansrikar/universal-error-explainer-tool) | Plain-language explanations of errors across Python, Java, C/C++, JS and SQL | Python · Web |
-| [Tools-For-Hackathon](https://github.com/chavansrikar/Tools-For-Hackathon) | Curated 35+ toolkit behind the fast-build workflow — pitch, prototype, deploy | Markdown · Open Source |
+| <a href="https://github.com/chavansrikar/crowd-density-prevention" target="_blank" rel="noopener noreferrer">👥 Crowd Density & Stampede Prevention</a> | Real-time people detection and density alerts before a crowd crosses unsafe thresholds | Python · Streamlit · YOLOv8 · OpenCV |
+| <a href="https://github.com/chavansrikar/project-on-voice-assistant" target="_blank" rel="noopener noreferrer">🎙️ Omnix Voice Assistant</a> · <a href="https://project-on-voice-assistant-060.onrender.com/" target="_blank" rel="noopener noreferrer">demo</a> | Two-way speech recognition + synthesis in the browser; I led a team of 6 | JavaScript · Node.js · Express |
+| <a href="https://github.com/chavansrikar/Automated-Wheat-Disease-Detection" target="_blank" rel="noopener noreferrer">🌾 Automated Wheat Disease Detection</a> | Wheat-leaf photo in, disease classification out — for farmers who need answers fast | Python · Deep Learning · Gradio |
+| <a href="https://github.com/chavansrikar/universal-error-explainer-tool" target="_blank" rel="noopener noreferrer">🐞 Universal Error Explainer</a> | Cryptic stack traces across six languages explained in plain language | Python · Web |
+| <a href="https://github.com/chavansrikar/Tools-For-Hackathon" target="_blank" rel="noopener noreferrer">🧰 Tools-For-Hackathon</a> | A curated 35+ tool kit for moving from pitch to deployed product under pressure | Markdown · Open Source |
 
 <details>
-<summary><b>Other public repos</b> — click to expand</summary>
+<summary><b>Complete public repo index — all 21 repositories</b> — click to expand</summary>
 
-| Repo | What it's for |
-|---|---|
-| [python-fullstack-snippets](https://github.com/chavansrikar/python-fullstack-snippets) | Reusable Python full-stack snippets |
-| [python-dsa-journey](https://github.com/chavansrikar/python-dsa-journey) | Personal DSA practice log |
-| [recommendation_system-for-movies](https://github.com/chavansrikar/recommendation_system-for-movies) | Recommender-system experiments |
-| [RoadSafe-Analytics](https://github.com/chavansrikar/RoadSafe-Analytics-Road-Accidents-Exploratory) | EDA on road-accident data |
-| [sticker-sheet-generator](https://github.com/chavansrikar/sticker-sheet-generator) | Printable sticker-sheet utility |
-| [vighnaraja](https://github.com/chavansrikar/vighnaraja) | Gradio / Hugging Face Space config |
-| [java-lab](https://github.com/chavansrikar/java-lab) | Java lab programs |
-| [nexus](https://github.com/chavansrikar/nexus) · [my-project](https://github.com/chavansrikar/my-project) | Experiments and scratch work |
+| Repository | Description | Language | ★ |
+|---|---|---|---|
+| <a href="https://github.com/chavansrikar/Be-An-Earth-System-Trend-Detective-Team-Ace-Azael" target="_blank" rel="noopener noreferrer">Be-An-Earth-System-Trend-Detective-Team-Ace-Azael</a> | ATLAS Earth — NASA Space Apps 2026 trend detective | TypeScript | 4 |
+| <a href="https://github.com/chavansrikar/portfolio" target="_blank" rel="noopener noreferrer">portfolio</a> | Animated ASCII-motion portfolio site | TypeScript | 0 |
+| <a href="https://github.com/chavansrikar/Bharat-Health-Detective-Care" target="_blank" rel="noopener noreferrer">Bharat-Health-Detective-Care</a> | District healthcare operations platform | Python | 0 |
+| <a href="https://github.com/chavansrikar/java-lab" target="_blank" rel="noopener noreferrer">java-lab</a> | Java lab programs and experiments | Java | 1 |
+| <a href="https://github.com/chavansrikar/Dr_shalini" target="_blank" rel="noopener noreferrer">Dr_shalini</a> | Clinic website with embedded Sanity Studio | TypeScript | 0 |
+| <a href="https://github.com/chavansrikar/Tools-For-Hackathon" target="_blank" rel="noopener noreferrer">Tools-For-Hackathon</a> | 35+ tools for building under a deadline | — | 4 |
+| <a href="https://github.com/chavansrikar/nexus" target="_blank" rel="noopener noreferrer">nexus</a> | Experiments and scratch work | — | 0 |
+| <a href="https://github.com/chavansrikar/chavansrikar" target="_blank" rel="noopener noreferrer">chavansrikar</a> | This profile README repository | — | 0 |
+| <a href="https://github.com/chavansrikar/vighnaraja" target="_blank" rel="noopener noreferrer">vighnaraja</a> | Gradio / Hugging Face Space configuration | Python | 0 |
+| <a href="https://github.com/chavansrikar/my-project" target="_blank" rel="noopener noreferrer">my-project</a> | Early Python experiments | Python | 0 |
+| <a href="https://github.com/chavansrikar/sticker-sheet-generator" target="_blank" rel="noopener noreferrer">sticker-sheet-generator</a> | Printable sticker/label sheet utility | Python | 0 |
+| <a href="https://github.com/chavansrikar/python-dsa-journey" target="_blank" rel="noopener noreferrer">python-dsa-journey</a> | Personal Data Structures & Algorithms practice | Python | 0 |
+| <a href="https://github.com/chavansrikar/Automated-Wheat-Disease-Detection" target="_blank" rel="noopener noreferrer">Automated-Wheat-Disease-Detection</a> | Deep-learning crop disease classifier | Python | 0 |
+| <a href="https://github.com/chavansrikar/RoadSafe-Analytics-Road-Accidents-Exploratory" target="_blank" rel="noopener noreferrer">RoadSafe-Analytics-Road-Accidents-Exploratory</a> | EDA on road-accident data | Python | 0 |
+| <a href="https://github.com/chavansrikar/Nostromo-Guard-AI-Powered-DeFi-Risk-Optimizer" target="_blank" rel="noopener noreferrer">Nostromo-Guard-AI-Powered-DeFi-Risk-Optimizer</a> | Offline smart-contract risk auditor | Python | 0 |
+| <a href="https://github.com/chavansrikar/NGPME_major_project" target="_blank" rel="noopener noreferrer">NGPME_major_project</a> | Video-based gait analysis and fall-risk scoring | Python | 0 |
+| <a href="https://github.com/chavansrikar/universal-error-explainer-tool" target="_blank" rel="noopener noreferrer">universal-error-explainer-tool</a> | Plain-language programming error explanations | Python | 2 |
+| <a href="https://github.com/chavansrikar/python-fullstack-snippets" target="_blank" rel="noopener noreferrer">python-fullstack-snippets</a> | Reusable Python full-stack snippets | Python | 2 |
+| <a href="https://github.com/chavansrikar/project-on-voice-assistant" target="_blank" rel="noopener noreferrer">project-on-voice-assistant</a> | Omnix — browser voice assistant | JavaScript | 1 |
+| <a href="https://github.com/chavansrikar/recommendation_system-for-movies" target="_blank" rel="noopener noreferrer">recommendation_system-for-movies</a> | Recommender-system experiments | — | 1 |
+| <a href="https://github.com/chavansrikar/crowd-density-prevention" target="_blank" rel="noopener noreferrer">crowd-density-prevention</a> | YOLOv8 crowd density and alerts | Python | 1 |
 
 </details>
 
 ---
 
-## ⚙️ How I build
+## 📊 GitHub at a glance
 
-```text
-1. Rapid idea validation → minimal inference demo (Gradio / Streamlit) to prove the idea holds up
-2. Model & UX improvement → preprocessing, tuning, annotated outputs (charts, video, scores)
-3. Productize → modern UI (React / Next.js), service layer, DB, auth, deployment
-4. Iterate → refine with real data and real users, tighten the metrics
-```
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=chavansrikar&amp;show_icons=true&amp;theme=default&amp;count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chavansrikar&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true" alt="GitHub statistics for chavansrikar" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=chavansrikar&amp;theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=chavansrikar&amp;theme=tokyonight" alt="GitHub contribution streak for chavansrikar" height="170" />
+</picture>
+</p>
 
-This loop is how a rough idea becomes a **5–10 minute prototype**, and from there a real product.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chavansrikar&amp;layout=compact&amp;theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavansrikar&amp;layout=compact&amp;theme=tokyonight" alt="Most used languages on GitHub" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chavansrikar&amp;theme=default&amp;hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavansrikar&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution activity graph" height="170" />
+</picture>
+</p>
 
 ---
 
@@ -229,73 +266,21 @@ This loop is how a rough idea becomes a **5–10 minute prototype**, and from th
 
 ---
 
-## 🐍 Optional: animated contribution snake
-
-Want the classic snake that eats your contribution graph? It's a GitHub Actions-generated SVG (not README code). Add `.github/workflows/snake.yml` to your profile repo:
-
-<details>
-<summary><b>snake.yml</b> — click to expand</summary>
-
-```yaml
-name: Generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add this below the stats section (it also switches automatically for dark mode):
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chavansrikar/chavansrikar/output/github-snake-dark.svg" />
-  <img alt="Contribution snake built from chavansrikar's GitHub activity" src="https://raw.githubusercontent.com/chavansrikar/chavansrikar/output/github-snake.svg" />
-</picture>
-```
-
-</details>
-
----
-
 ## 📫 Let's connect
 
-I'm always open to AI/CV products, hackathons, internships, or anything that needs a fast prototype to prove it's worth building.
+Open to internships, collaborations on AI/CV systems, or any problem that needs a careful engineer and a working solution. Every link below opens in a new tab so you can keep this profile open.
 
 <p align="center">
-  <a href="https://github.com/chavansrikar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/chavansrikar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chavansrikar@gmail.com"><img src="https://img.shields.io/badge/Email-chavansrikar%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://chavansrikar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://huggingface.co/srikarrr"><img src="https://img.shields.io/badge/HuggingFace-srikarrr-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://www.instagram.com/srikar_24_9/"><img src="https://img.shields.io/badge/Instagram-srikar_24_9-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
-</p>
-
-<p align="center"><i>Got a problem worth solving? Give me 5–10 minutes and I'll show you it's possible.</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chavansrikar&amp;label=Profile%20views&amp;color=blueviolet&amp;style=flat-square" alt="Profile view counter" />
+  <a href="https://github.com/chavansrikar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/chavansrikar/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chavansrikar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-chavansrikar%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://chavansrikar.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://huggingface.co/srikarrr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HuggingFace-srikarrr-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://www.instagram.com/srikar_24_9/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-srikar_24_9-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
 <sub>
-  <b>About the motion:</b> only two animated SVGs load on this page — the typing headline and the animated stats card. GitHub strips JavaScript from READMEs, so all motion lives inside the SVG images themselves; badges and content stay static and readable. Animations respect <code>prefers-reduced-motion</code> in supporting services, and the optional snake uses a <code>&lt;picture&gt;</code> light/dark pair. Inspired by the <a href="https://www.gitskins.com/blog/best-github-readme-animations">GitSkins guide to tasteful README animations</a>.
+  <b>About this profile:</b> the two animated SVGs live inside this repo (<code>assets/</code>), so no third-party service or cache can break them. They ship in light/dark and desktop/mobile variants chosen with <code>&lt;picture&gt;</code> media queries, and every link opens in a new tab. Design references: <a href="https://www.gitskins.com/blog/best-github-readme-animations" target="_blank" rel="noopener noreferrer">GitSkins — tasteful README animations</a> and <a href="https://dev.to/grahamthedev/take-your-github-readme-to-the-next-level-responsive-and-light-and-dark-modes--3kpc" target="_blank" rel="noopener noreferrer">DEV — responsive READMEs with light and dark modes</a>.
 </sub>
