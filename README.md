@@ -27,6 +27,30 @@
 
 ---
 
+## 🛰️ Featured — NASA Space Apps Challenge 2026
+
+<p align="center">
+<a href="https://atlas-ace-azael.vercel.app/" target="_blank" rel="noopener noreferrer">
+<picture>
+  <source media="(min-width: 769px)" srcset="assets/atlas-globe-desktop.webp" type="image/webp" />
+  <source media="(max-width: 768px)" srcset="assets/atlas-globe-mobile.webp" type="image/webp" />
+  <img src="assets/atlas-globe-desktop.jpg" alt="ATLAS Earth — the NASA Blue Marble globe built for NASA Space Apps 2026, awarded 1st place at the Warangal local event" width="100%" />
+</picture>
+</a>
+</p>
+
+<p align="center">
+  🏆 <b>1st place · Warangal local event</b> — the actual ATLAS Earth globe, built from NASA POWER and GIBS data with Team Ace Azael. Click the image to explore the live app.
+</p>
+
+<p align="center">
+  <a href="https://atlas-ace-azael.vercel.app/" target="_blank" rel="noopener noreferrer">🌍 Live demo</a>
+  ·
+  <a href="https://github.com/chavansrikar/Be-An-Earth-System-Trend-Detective-Team-Ace-Azael" target="_blank" rel="noopener noreferrer">Source code</a>
+</p>
+
+---
+
 ## 🧠 Professional summary
 
 I'm a **software engineer and AI systems builder** who takes ambiguous, real-world problems all the way to working software. I start by understanding the domain and the people affected, break the challenge into tractable parts, choose the right tools for each part, and then ship something that holds up against real data and real users.
