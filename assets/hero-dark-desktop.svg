@@ -1,26 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="100" viewBox="0 0 920 100" role="img" aria-label="Professional software engineer and AI systems builder solving real-world problems">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="96" viewBox="0 0 920 96" role="img" aria-label="Professional Software Engineer · AI Systems Builder. Solving complex, interconnected real-world problems.">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8B93FF"/><stop offset="50%" stop-color="#36D1DC"/><stop offset="100%" stop-color="#8B93FF"/>
+      <stop offset="0%" stop-color="#A5B4FF"/><stop offset="50%" stop-color="#5EEAD4"/><stop offset="100%" stop-color="#A5B4FF"/>
     </linearGradient>
   </defs>
-  <g font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" text-anchor="middle" fill="#F5F7FF">
-    <text x="460" y="46" opacity="1">Professional Software Engineer · AI Systems Builder
-      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.005;0.025;0.225;0.245;1" values="1;1;0;0;0;1"/>
-    </text>
-    <text x="460" y="46" opacity="0">Solving Complex, Interconnected Real-World Problems
-      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.255;0.275;0.475;0.495;1" values="0;0;1;1;0;0"/>
-    </text>
-    <text x="460" y="46" opacity="0">From Messy Data → Models → Products → Production
-      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.505;0.525;0.725;0.745;1" values="0;0;1;1;0;0"/>
-    </text>
-    <text x="460" y="46" opacity="0">NASA Space Apps 2026 Winner · Building for Bharat
-      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.755;0.775;0.975;0.995;1" values="0;0;1;1;0;0"/>
-    </text>
-  </g>
-  <rect x="440" y="64" width="40" height="3" rx="1.5" fill="url(#accent)">
-    <animate attributeName="x" values="440;300;440" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="width" values="40;320;40" dur="8s" repeatCount="indefinite"/>
-  </rect>
-  <text x="460" y="91" text-anchor="middle" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#8B93FF">FRAME · DECOMPOSE · BUILD · VALIDATE · SHIP</text>
+  <text x="460" y="41" text-anchor="middle" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="url(#accent)">Professional Software Engineer · AI Systems Builder</text>
+  <text x="460" y="65" text-anchor="middle" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="13" fill="#8B93FF">Solving complex, interconnected real-world problems</text>
+  <rect x="300" y="78" width="320" height="3" rx="1.5" fill="#8B93FF"/>
 </svg>
