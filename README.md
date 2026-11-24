@@ -41,11 +41,17 @@
 </p>
 
 <p align="center">
-  🏆 <b>1st place · Warangal local event</b> — the globe is rendered from ATLAS Earth's own NASA Blue Marble texture and spins through the same case-file hotspots as the live app: Amazon Basin, Sahel, Himalayas, Hyderabad, California, Fraser Valley and Greenland. Click it to explore the real thing.
+  🏆 <b>1st place · Warangal local event</b> — this globe is rendered from ATLAS Earth's own NASA Blue Marble texture and spins through the same case-file hotspots as the live app: Amazon Basin, Sahel, Himalayas, Hyderabad, California, Fraser Valley and Greenland.
 </p>
 
 <p align="center">
-  <a href="https://atlas-ace-azael.vercel.app/" target="_blank" rel="noopener noreferrer">🌍 Live demo</a>
+  <i>GitHub profile READMEs can't run JavaScript, so drag-to-rotate can't happen inside the profile itself — click through to the live globe to drag, zoom, fly to a place and tap the hotspots yourself.</i>
+</p>
+
+<p align="center">
+  <a href="https://atlas-ace-azael.vercel.app/?mode=globe" target="_blank" rel="noopener noreferrer">🖱️ Open interactive globe</a>
+  ·
+  <a href="https://atlas-ace-azael.vercel.app/" target="_blank" rel="noopener noreferrer">🌍 Full app</a>
   ·
   <a href="https://github.com/chavansrikar/Be-An-Earth-System-Trend-Detective-Team-Ace-Azael" target="_blank" rel="noopener noreferrer">Source code</a>
 </p>
