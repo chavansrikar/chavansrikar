@@ -32,15 +32,16 @@
 <p align="center">
 <a href="https://atlas-ace-azael.vercel.app/" target="_blank" rel="noopener noreferrer">
 <picture>
-  <source media="(min-width: 769px)" srcset="assets/atlas-globe-desktop.webp" type="image/webp" />
-  <source media="(max-width: 768px)" srcset="assets/atlas-globe-mobile.webp" type="image/webp" />
-  <img src="assets/atlas-globe-desktop.jpg" alt="ATLAS Earth — the NASA Blue Marble globe built for NASA Space Apps 2026, awarded 1st place at the Warangal local event" width="100%" />
+  <source media="(min-width: 769px)" srcset="assets/atlas-globe-spin.webp" type="image/webp" />
+  <source media="(max-width: 768px)" srcset="assets/atlas-globe-spin-mobile.webp" type="image/webp" />
+  <source srcset="assets/atlas-globe-spin.gif" type="image/gif" />
+  <img src="assets/atlas-globe-spin.jpg" alt="A spinning NASA Blue Marble globe with pulsing hotspot markers for Amazon Basin, Hyderabad, California and other ATLAS Earth case-file locations — 1st place at NASA Space Apps Challenge 2026, Warangal" width="520" />
 </picture>
 </a>
 </p>
 
 <p align="center">
-  🏆 <b>1st place · Warangal local event</b> — the actual ATLAS Earth globe, built from NASA POWER and GIBS data with Team Ace Azael. Click the image to explore the live app.
+  🏆 <b>1st place · Warangal local event</b> — the globe is rendered from ATLAS Earth's own NASA Blue Marble texture and spins through the same case-file hotspots as the live app: Amazon Basin, Sahel, Himalayas, Hyderabad, California, Fraser Valley and Greenland. Click it to explore the real thing.
 </p>
 
 <p align="center">
